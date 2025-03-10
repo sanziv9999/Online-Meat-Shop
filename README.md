@@ -14,7 +14,7 @@ Welcome to the Online Meat Shop repository—a premier digital platform revoluti
 
 Our robust platform is built using cutting-edge technologies to ensure a seamless user experience:
 
-- **Frontend**: React.js, Redux, React Router 4, HTML5, CSS3
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript
 - **Backend**: Java, Spring Boot
 - **Database**: MySQL
 - **Version Control**: Git
